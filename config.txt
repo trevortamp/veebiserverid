@@ -1,1 +1,1 @@
-configi fail
+theme=dark
